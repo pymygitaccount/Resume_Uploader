@@ -31,3 +31,8 @@ def sum_func(x, y):
   return x + y
 
 sum_func(10, 20)
+
+def mul_func(x, y):
+  return x * y
+
+mul_func(2, 6)
